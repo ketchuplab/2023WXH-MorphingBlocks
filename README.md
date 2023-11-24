@@ -8,11 +8,11 @@
 
 > 電子木魚效果演示
 
-<iframe height=498 width=510 src="Video and PPT/鏈上電子木魚演示影片.mp4">
+<iframe height=310 width=560 src="https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上電子木魚演示影片.mp4" frameborder="0" allowfullscreen>
 
 > 功德上鍊效果演示
 
-<iframe height=498 width=510 src="Video and PPT/鏈上功德上鍊演示影片.mp4">
+<iframe height=310 width=560 src="https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上功德上鍊演示影片.mp4" frameborder="0" allowfullscreen>
 
 ## 軟件架構
 
