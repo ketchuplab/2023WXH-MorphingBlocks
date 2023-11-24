@@ -88,8 +88,10 @@
    獲取或通過 <a href="https://github.com/ketchuplab" target="_blank">KetchupLabs DAO Github</a>
    獲取。
 
-如果本項目對您有幫助您可以選擇：
-1、通過 KetchupLabs Twitter：<a href="https://twitter.com/ketchupRepublic" target="_blank">https://twitter.com/ketchupRepublic</a>聯繫我們。
-2、通過錢包地址進行打賞以鼓勵我們貢獻更優質的項目。
+**如果本項目對您有幫助您可以選擇：**
 
-> Eth Wallet Address：0x7476c197C61492C50417dDBB5d1359E3fF8C614a
+- 通過 KetchupLabs Twitter：<a href="https://twitter.com/ketchupRepublic" target="_blank">https://twitter.com/ketchupRepublic</a>聯繫我們。
+
+- 通過錢包地址進行打賞以鼓勵我們貢獻更優質的項目。
+
+**Eth Wallet Address：0x7476c197C61492C50417dDBB5d1359E3fF8C614a**
