@@ -6,15 +6,15 @@
 
 > 真實世界資產建模協議
 
-[真實世界資產建模協議.PDF](https://ketchuplab.github.io/MorphingBlocks.DePIN/MorphingBlock_v1.pdf)
+<a href="https://ketchuplab.github.io/MorphingBlocks.DePIN/MorphingBlock_v1.pdf" target="_blank">真實世界資產建模協議.PDF</a>
 
 > 電子木魚效果演示
 
-[鏈上電子木魚演示影片.mp4](https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上電子木魚演示影片.mp4)
+<a href="https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上電子木魚演示影片.mp4" target="_blank">鏈上電子木魚演示影片.mp4</a>
 
 > 功德上鍊效果演示
 
-[鏈上功德上鍊演示影片.mp4](https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上功德上鍊演示影片.mp4)
+<a href="https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上功德上鍊演示影片.mp4" target="_blank">鏈上功德上鍊演示影片.mp4</a>
 
 ## 軟件架構
 
@@ -66,18 +66,30 @@
 
 ## 參與貢獻
 
-1. Initiator：[@wanxiang-blockchain](https://github.com/wanxiang-blockchain)
-2. Founder：[@ketchuplab](https://github.com/ketchuplab)
-3. Developer：[@ketchuplab](https://github.com/ketchuplab) [@dahuotu](https://github.com/dahuotu)
+1. Initiator：<a href="https://github.com/wanxiang-blockchain" target="_blank">@wanxiang-blockchain</a>
+
+2. Founder：<a href="https://github.com/ketchuplab" target="_blank">@ketchuplab</a>
+
+3. Developer：<a href="https://github.com/ketchuplab" target="_blank">@ketchuplab</a>、<a href="https://github.com/dahuotu" target="_blank">@dahuotu</a>
 
 ## 其他
 
 ### **贊助及聯繫**
 
-1. 萬象區塊鏈：[https://wxblockchain.com/](https://wxblockchain.com/)
-2. KetchupLabs DAO：[https://kclab.xyz/](https://kclab.xyz/)
-3. KetchupLabs Twitter [https://twitter.com/ketchupRepublic](https://twitter.com/ketchupRepublic)
+1. 萬象區塊鏈：<a href="https://wxblockchain.com/" target="_blank">https://wxblockchain.com/</a>
+
+2. KetchupLabs DAO：<a href="https://kclab.xyz/" target="_blank">https://kclab.xyz/</a>
+
+3. KetchupLabs Twitter：<a href="https://twitter.com/ketchupRepublic" target="_blank">https://twitter.com/ketchupRepublic</a>
 
 ### **源碼及捐助**
 
-1. 所有源碼已開源可通過萬象區塊鏈 [Github](https://github.com/wanxiang-blockchain/2023WXH-MorphingBlocks) 獲取或通過 [KetchupLabs DAO Github](https://github.com/ketchuplab/MorphingBlocks) 獲取。
+1. 所有源碼已開源可通過萬象區塊鏈 <a href="https://github.com/wanxiang-blockchain/2023WXH-MorphingBlocks" target="_blank">Github</a>
+   獲取或通過 <a href="https://github.com/ketchuplab" target="_blank">KetchupLabs DAO Github</a>
+   獲取。
+
+如果本項目對您有幫助您可以選擇：
+1、通過 KetchupLabs Twitter：<a href="https://twitter.com/ketchupRepublic" target="_blank">https://twitter.com/ketchupRepublic</a>聯繫我們。
+2、通過錢包地址進行打賞以鼓勵我們貢獻更優質的項目。
+
+> Eth Wallet Address：0x7476c197C61492C50417dDBB5d1359E3fF8C614a
