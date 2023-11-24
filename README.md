@@ -6,13 +6,15 @@
 
 > 真實世界資產建模協議
 
+[真實世界資產建模協議.PDF](https://ketchuplab.github.io/MorphingBlocks.DePIN/MorphingBlock_v1.pdf)
+
 > 電子木魚效果演示
 
-<iframe height=310 width=560 src="https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上電子木魚演示影片.mp4" frameborder="0" allowfullscreen>
+[鏈上電子木魚演示影片.mp4](https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上電子木魚演示影片.mp4)
 
 > 功德上鍊效果演示
 
-<iframe height=310 width=560 src="https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上功德上鍊演示影片.mp4" frameborder="0" allowfullscreen>
+[鏈上功德上鍊演示影片.mp4](https://ketchuplab.github.io/MorphingBlocks.DePIN/鏈上功德上鍊演示影片.mp4)
 
 ## 軟件架構
 
